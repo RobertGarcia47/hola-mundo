@@ -1,6 +1,3 @@
 # hola-mundo
-Mi primer repositorio
-
-Autor: R. garcia
-
-Cambio en otra rama
+Autor: Roberto García
+Fecha: 06/02/2022
